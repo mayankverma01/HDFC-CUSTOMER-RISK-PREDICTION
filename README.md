@@ -2,6 +2,9 @@
 The Hackerearth Challenge.
 Tool used : Python Jupyter Notebook
 
+# Data Set: https://he-s3.s3.amazonaws.com/media/hackathon/hdfc-bank-ml-hiring-challenge-2019/banking-behavioral-scorecard-for-internal-liability-customers-4caf1786/d407ebe0db9a11e9.zip
+
+
 # Step By Step Approach:
 # 1 Import Data (Train And Test)
 	*Define Hypothetical relation(Define Y & X variable)
